@@ -41,9 +41,9 @@ select {
 
 input:focus ,
 textarea:focus {
-    background-color: rgb(219, 190, 253);
-    color: rgb(32, 5, 63);
-    border-color: rgb(32, 5, 63);
+    background-color: rgb(243, 233, 254);
+    color: rgb(62, 27, 103);
+    border-color: rgb(71, 13, 137);
 }
 
 .Submit {
